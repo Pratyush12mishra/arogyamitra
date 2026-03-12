@@ -1,0 +1,1 @@
+print("ArogyaMitra Backend Started")
